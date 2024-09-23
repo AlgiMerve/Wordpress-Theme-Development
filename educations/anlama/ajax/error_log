@@ -1,0 +1,21 @@
+[25-Apr-2023 11:06:35 Europe/Istanbul] PHP Warning:  Undefined array key "tc" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php on line 6
+[25-Apr-2023 11:06:35 Europe/Istanbul] PHP Warning:  Undefined array key "ad_soyad" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php on line 7
+[25-Apr-2023 11:06:35 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ogr_tc' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php:25
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php(25): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php on line 25
+[12-May-2023 20:02:29 Europe/Istanbul] PHP Warning:  Undefined array key "tc" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php on line 6
+[12-May-2023 20:02:29 Europe/Istanbul] PHP Warning:  Undefined array key "ad_soyad" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php on line 7
+[12-May-2023 20:02:29 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ogr_tc' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php:25
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php(25): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php on line 25
+[16-May-2023 18:17:40 Europe/Istanbul] PHP Warning:  Undefined array key "tc" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php on line 6
+[16-May-2023 18:17:40 Europe/Istanbul] PHP Warning:  Undefined array key "ad_soyad" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php on line 7
+[16-May-2023 18:17:40 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ogr_tc' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php:25
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php(25): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/educations/anlama/ajax/ajax_metin_okuma_soru.php on line 25

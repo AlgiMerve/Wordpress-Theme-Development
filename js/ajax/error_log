@@ -1,0 +1,12 @@
+[08-May-2023 10:37:39 Europe/Istanbul] PHP Warning:  Undefined array key "bkod" in /home/neurosou/test.neurosound.com.tr/speedreading/js/ajax/ajax_ogr_get_full.php on line 5
+[08-May-2023 11:15:22 Europe/Istanbul] PHP Warning:  Undefined array key "bkod" in /home/neurosou/test.neurosound.com.tr/speedreading/js/ajax/ajax_ogr_islem_save.php on line 4
+[08-May-2023 11:15:22 Europe/Istanbul] PHP Warning:  Undefined array key "tck" in /home/neurosou/test.neurosound.com.tr/speedreading/js/ajax/ajax_ogr_islem_save.php on line 5
+[08-May-2023 11:15:22 Europe/Istanbul] PHP Warning:  Undefined array key "ad_soyad" in /home/neurosou/test.neurosound.com.tr/speedreading/js/ajax/ajax_ogr_islem_save.php on line 6
+[08-May-2023 11:15:22 Europe/Istanbul] PHP Warning:  Undefined array key "kadi" in /home/neurosou/test.neurosound.com.tr/speedreading/js/ajax/ajax_ogr_islem_save.php on line 7
+[08-May-2023 11:15:22 Europe/Istanbul] PHP Warning:  Undefined array key "psw" in /home/neurosou/test.neurosound.com.tr/speedreading/js/ajax/ajax_ogr_islem_save.php on line 8
+[08-May-2023 11:15:22 Europe/Istanbul] PHP Warning:  Undefined array key "prg" in /home/neurosou/test.neurosound.com.tr/speedreading/js/ajax/ajax_ogr_islem_save.php on line 9
+[08-May-2023 11:15:22 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'bayi_kod' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/js/ajax/ajax_ogr_islem_save.php:24
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/js/ajax/ajax_ogr_islem_save.php(24): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/js/ajax/ajax_ogr_islem_save.php on line 24

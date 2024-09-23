@@ -1,0 +1,59 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#lblYazi {
+  font-size: 20px;
+}
+.yazi {
+  text-align: center;
+  width: 50%;
+  height: 50%;
+  margin-left: 25%;
+  margin-top: 10%;
+  margin-bottom: 18%;
+}
+#txt {
+  display: none;
+}
+.detail {
+  z-index: 150;
+}
+
+.txtmain {
+  height: 570px;
+  width: 800px;
+  background-color: #d3d3d3;
+  position: relative;
+  border-radius: 10px;
+}
+#feature {
+  display: none;
+}
+#lblHiddenArticle {
+  display: none;
+}
+#getWord {
+  font-size: 20px;
+  position: absolute;
+}
+#pause {
+  display: none;
+  cursor: pointer;
+}
+#resume {
+  display: none;
+  cursor: pointer;
+}
+#finishToApp {
+  display: none;
+  cursor: pointer;
+}
+#AppStart {
+  display: none;
+}
+#DualFinish {
+  display: none;
+}
+

@@ -1,0 +1,261 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+*:not(input):not(textarea) {
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -o-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.site_title {
+  text-decoration: none;
+  color: white;
+}
+
+.main {
+  background-color: #476b7a;
+}
+.main_text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 55px;
+  color: #59bf94;
+}
+.exercise_text {
+  font-family: "Montserrat", sans-serif;
+  font-size: 40px;
+  color: #649bd2;
+}
+.result {
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  color: #649bd2;
+}
+.exercise_text_sc {
+  color: white;
+  font-weight: 100;
+  font-family: "Montserrat", sans-serif;
+}
+.btn_circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  -moz-border-radius: 50px;
+  -webkit-border-radius: 50px;
+  font-weight: bold;
+  font-family: "Montserrat", sans-serif;
+}
+.darkmode-layer,
+.darkmode-toggle {
+  z-index: 500;
+}
+#modalResult {
+  z-index: 500;
+}
+.noStyle {
+  text-decoration: none;
+  color: white;
+}
+.noStyle:hover {
+  color: white;
+}
+
+/* Scroolbar to hide  */
+body {
+  -ms-overflow-style: none; /* for Internet Explorer, Edge */
+  scrollbar-width: none; /* for Firefox */
+  overflow-y: scroll;
+}
+
+body::-webkit-scrollbar {
+  display: none; /* for Chrome, Safari, and Opera */
+}
+/* Scroolbar to hide  */
+
+.ust_menu {
+  background-color: #233e48;
+}
+
+.training_rectangle {
+  color: white;
+  background: #1b343e;
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  padding: 10px 10px 10px 10px;
+}
+
+.training_rectangle:hover {
+  text-decoration: none;
+  border: 3px solid white;
+}
+.warning_message {
+  display: none;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  color: #ecf0f1;
+  margin: 30px;
+}
+
+/* 
+----------------------------- */
+
+.lds-dual-ring {
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #476b7a;
+  z-index: 100;
+}
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 64px;
+  height: 64px;
+  margin: 8px;
+  border-radius: 50%;
+  border: 6px solid #fff;
+  border-color: #fff transparent #fff transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+#main_menu {
+  display: none;
+}
+#question:hover {
+  cursor: pointer;
+}
+#times:hover {
+  cursor: pointer;
+}
+
+.swal-modal,
+.modal-content {
+  background-color: #1c343e;
+}
+.swal-title,
+.modal-title {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+.swal-text,
+.modal-body {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+.start {
+  background-color: #395966;
+}
+.startmenu:hover {
+  cursor: pointer;
+}
+.loa {
+  border: 16px solid #3d81ff;
+  border-radius: 50%;
+
+  width: 140px;
+  height: 140px;
+  transition: border 3s;
+}
+
+.loa {
+  border: 16px solid white;
+}
+
+.txtmain {
+  margin-top: -80px;
+  height: 470px;
+  width: 1000px;
+  background-color: #d3d3d3;
+  border-radius: 10px;
+}
+.usertxtmain {
+  height: 200px;
+  width: 1000px;
+  background-color: #d3d3d3;
+  border-radius: 10px;
+}
+.okuma_hizi_class {
+  width: 125px;
+  height: 125px;
+  font-size: 18px;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  background-color: #27ae60;
+  border-radius: 50%;
+  margin: 35px;
+  margin-left: 70px;
+  margin-top: 50px;
+  padding-top: 45px;
+}
+.okuma_hizi_class:hover {
+  background-color: #2ecc71;
+}
+#endLearn {
+  display: none;
+}
+
+.txtmain_ {
+  margin-top: -80px;
+  height: 500px;
+  width: 1050px;
+  background-color: #476b7a;
+  border-radius: 10px;
+}
+#startmenu {
+  display: none;
+}
+#SlctTableStd {
+  opacity: 0;
+}
+#btn_select {
+  display: none;
+}
+#selectedStudient {
+  display: none;
+}
+#modalResult {
+  display: none;
+}
+#dsbMdlFinish {
+  display: none;
+}
+#fullScreen {
+  cursor: pointer;
+}
+#resultUser {
+  display: none;
+}
+.header {
+  color: #36a0ff;
+  font-size: 27px;
+  padding: 10px;
+}
+
+.bigicon {
+  font-size: 35px;
+  color: #36a0ff;
+}
+#userinfo {
+  display: none;
+}
+#body_id {
+  display: none;
+}

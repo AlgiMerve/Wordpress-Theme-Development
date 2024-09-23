@@ -1,0 +1,28 @@
+[17-Apr-2023 16:11:14 Europe/Istanbul] PHP Warning:  Undefined array key "tc" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 5
+[17-Apr-2023 16:11:14 Europe/Istanbul] PHP Warning:  Undefined array key "ad_soyad" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 6
+[17-Apr-2023 16:11:14 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ogr_tc' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php:18
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 18
+[17-Apr-2023 16:11:19 Europe/Istanbul] PHP Warning:  Undefined array key "tc" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 5
+[17-Apr-2023 16:11:19 Europe/Istanbul] PHP Warning:  Undefined array key "ad_soyad" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 6
+[17-Apr-2023 16:11:19 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ogr_tc' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php:18
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 18
+[17-Apr-2023 16:11:26 Europe/Istanbul] PHP Warning:  Undefined array key "tc" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 5
+[17-Apr-2023 16:11:26 Europe/Istanbul] PHP Warning:  Undefined array key "ad_soyad" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 6
+[17-Apr-2023 16:11:26 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ogr_tc' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php:18
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 18
+[11-May-2023 18:27:16 Europe/Istanbul] PHP Warning:  Undefined array key "tc" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 5
+[11-May-2023 18:27:16 Europe/Istanbul] PHP Warning:  Undefined array key "ad_soyad" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 6
+[11-May-2023 18:27:16 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ogr_tc' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php:18
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php(18): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/educations/gozkaslarinigelistirme/ajax/ajax_goz_sonuc.php on line 18

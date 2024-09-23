@@ -1,0 +1,62 @@
+#completetheexercise {
+  cursor: pointer;
+}
+.txtmain {
+  height: 650px;
+  background-color: #d3d3d3;
+  position: relative;
+  overflow-y: scroll;
+}
+
+@media screen and (min-height: 860px) {
+  .txtmain {
+    height: 775px;
+  }
+}
+
+/* .end {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+ 
+} */
+
+/* ------------------------------------------------------------ */
+
+#btnSoruGonder {
+  display: none;
+}
+
+#txt {
+  display: none;
+}
+#questions {
+  display: none;
+}
+#reloadApp {
+  display: none;
+}
+#feature {
+  display: none;
+}
+#pause {
+  display: none;
+  cursor: pointer;
+}
+#resume {
+  display: none;
+  cursor: pointer;
+}
+#finishToApp {
+  display: none;
+  cursor: pointer;
+}
+#AppStart {
+  display: none;
+}
+#DualFinish {
+  display: none;
+}
+
+

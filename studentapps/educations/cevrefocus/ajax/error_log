@@ -1,0 +1,84 @@
+[28-Apr-2023 16:38:43 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[28-Apr-2023 16:38:43 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[28-Apr-2023 16:38:45 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[28-Apr-2023 16:38:45 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[28-Apr-2023 16:38:48 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[28-Apr-2023 16:38:48 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[28-Apr-2023 16:38:49 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[28-Apr-2023 16:38:49 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[28-Apr-2023 16:38:50 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[28-Apr-2023 16:38:50 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[28-Apr-2023 16:38:55 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[28-Apr-2023 16:38:55 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[28-Apr-2023 16:38:56 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[28-Apr-2023 16:38:56 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[28-Apr-2023 16:38:56 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[28-Apr-2023 16:38:56 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[28-Apr-2023 16:39:00 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[28-Apr-2023 16:39:00 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[02-May-2023 11:50:57 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[02-May-2023 11:50:57 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[02-May-2023 11:50:59 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[02-May-2023 11:50:59 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[02-May-2023 11:51:00 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[02-May-2023 11:51:00 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[02-May-2023 11:51:02 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[02-May-2023 11:51:02 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23
+[02-May-2023 11:51:07 Europe/Istanbul] PHP Warning:  Undefined array key "sure" in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 8
+[02-May-2023 11:51:07 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'metin_sure' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php:23
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php(23): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/studentapps/educations/cevrefocus/ajax/ajax_takistoskop.php on line 23

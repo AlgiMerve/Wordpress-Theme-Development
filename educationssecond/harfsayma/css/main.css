@@ -1,0 +1,105 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#lblYazi {
+  font-size: 20px;
+}
+#yazi {
+  margin-top: 140px;
+}
+#txt {
+  display: none;
+}
+.detail {
+  z-index: 150;
+}
+
+.txtmain {
+  height: 300px;
+  width: 600px;
+  background-color: #d3d3d3;
+
+  border-radius: 10px;
+}
+.newtxtmain {
+  height: 430px;
+  width: 800px;
+  background-color: #d3d3d3;
+
+  border-radius: 10px;
+}
+.txtChild {
+  width: 600px;
+  height: 80px;
+  background-color: #304457;
+  border-radius: 10px;
+}
+#feature {
+  display: none;
+}
+#lblHiddenArticle {
+  display: none;
+}
+#getWord {
+  font-size: 20px;
+  margin-top: 90px;
+}
+
+#imgControl {
+  width: 50px;
+  height: 50px;
+  display: none;
+}
+
+#yerlesen_kelimeler {
+  display: none;
+}
+.box {
+  position: absolute;
+  font-size: 22px;
+  font-weight: bold;
+  margin: 5px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+#btnaddon {
+  cursor: pointer;
+}
+#btntrue {
+  cursor: pointer;
+}
+#btnfalse {
+  cursor: pointer;
+}
+#pause {
+  display: none;
+  cursor: pointer;
+}
+#resume {
+  display: none;
+  cursor: pointer;
+}
+#finishToApp {
+  display: none;
+  cursor: pointer;
+}
+#AppStart {
+  display: none;
+}
+#DualFinish {
+  display: none;
+}
+#transition {
+  display: none;
+}

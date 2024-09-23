@@ -1,0 +1,7 @@
+[30-Apr-2023 12:45:01 Europe/Istanbul] PHP Warning:  Undefined array key "tc" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/sayisiralama/ajax/ajax_sayibulma.php on line 6
+[30-Apr-2023 12:45:01 Europe/Istanbul] PHP Warning:  Undefined array key "ad_soyad" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/sayisiralama/ajax/ajax_sayibulma.php on line 7
+[30-Apr-2023 12:45:01 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ogr_tc' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/educations/sayisiralama/ajax/ajax_sayibulma.php:21
+Stack trace:
+#0 /home/neurosou/test.neurosound.com.tr/speedreading/educations/sayisiralama/ajax/ajax_sayibulma.php(21): PDOStatement->execute()
+#1 {main}
+  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/educations/sayisiralama/ajax/ajax_sayibulma.php on line 21

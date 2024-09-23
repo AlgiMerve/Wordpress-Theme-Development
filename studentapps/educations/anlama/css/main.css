@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#completetheexercise {
+  cursor: pointer;
+}
+.txtmain {
+  height: 650px;
+  background-color: #d3d3d3;
+  overflow-y: scroll;
+}
+
+@media screen and (min-height: 860px) {
+  .txtmain {
+    height: 775px;
+  }
+}
+
+/* .end {
+  position: fixed;
+  width: 100%;
+  left: 0;
+  bottom: 0;
+ 
+} */
+
+/* ------------------------------------------------------------ */
+
+/* Sorular için şekilli css kodları */
+.al ert-light {
+  color: #000;
+}
+.sekilli_buton .radio label {
+  display: inline-block;
+  cursor: pointer;
+  color: #0074d9;
+  position: relative;
+  padding: 5px 15px 5px 51px;
+  font-size: 1em;
+  border-radius: 5px;
+  -webkit-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+}
+.sekilli_buton .radio label:hover {
+  background: rgba(255, 65, 54, 0.1);
+}
+.sekilli_buton .radio label:before {
+  content: "";
+  display: inline-block;
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 15px;
+  border-radius: 50%;
+  background: none;
+  border: 3px solid #0074d9;
+}
+.sekilli_buton input[type="radio"] {
+  display: none;
+}
+.sekilli_buton input[type="radio"]:checked + label:before {
+  display: none;
+}
+.sekilli_buton input[type="radio"]:checked + label {
+  padding: 5px 15px;
+  background: #0074d9;
+  border-radius: 2px;
+  color: #fff;
+}
+
+/* Sorular için şekilli css kodları */
+
+#btnSoruGonder {
+  display: none;
+}
+
+#txt {
+  display: none;
+}
+#questions {
+  display: none;
+}
+#reloadApp {
+  display: none;
+}
