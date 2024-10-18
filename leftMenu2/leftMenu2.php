@@ -85,6 +85,14 @@
                      </a>
                      <script src="js/prg_5.js" defer></script>
                  </div>
+                 <!--tarama testi -->
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="paragraph-quiz.php" >
+                         <span>Kendimi Test Ediyorum</span>
+                         <div class="text-end">
+                         <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                 </div>
              </div>
 
          </div>
@@ -147,6 +155,14 @@
                          <div class="text-end"> <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
                      </a>
                      <script src="js/anlam_5.js" defer></script>
+                 </div>
+                  <!--tarama testi -->
+                  <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="meaning-quiz.php" >
+                         <span>Kendimi Test Ediyorum</span>
+                         <div class="text-end">
+                         <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
                  </div>
              </div>
 
@@ -226,6 +242,14 @@
                      <a style="text-decoration: none; color:white;" class="leftUrl" href="#"data-image="prg_image/9.png" data-alt="Uygulama Bilgilendirme Görseli" name="educations/gozcevikliginiarttirma|||educationssecond/gozcevikliginiarttirma">
                          <span>Düşüncenin Yönünün Değişmeye Başladığı Cümle </span>
                          <div class="text-end"> <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                 </div>
+                 <!--tarama testi -->
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="structure-quiz.php" >
+                         <span>Kendimi Test Ediyorum</span>
+                         <div class="text-end">
+                         <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
                      </a>
                  </div>
              </div>
