@@ -48,7 +48,7 @@ $_SESSION['incorrect'] = 0;
 
 <div class="container">
     <h1>PARAGRAF KONUŞUYOR </h1>
-    <form method="post" action="test.php">
+    <form method="post" action="paragraph-sorular.php">
         <button type="submit" name="topic" value="dil_anlatim">Dil ve Anlatım Özellikleri</button>
         <button type="submit" name="topic" value="anlatici_tur">Anlatıcı Türleri</button>
         <button type="submit" name="topic" value="anlatici_bakis">Anlatıcı Türleri Bakış Açıları</button>

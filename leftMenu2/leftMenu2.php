@@ -25,6 +25,17 @@
              </div>
 
          </div>
+         <div class="container">
+             <div class="row">
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="#"data-image="prg_image/2.jpg" data-alt="Uygulama Bilgilendirme Görseli" >
+                         <span> Programım</span>
+                         <div class="text-end"> <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                 </div>
+             </div>
+
+         </div>
 
      </div>
  </div>
@@ -34,7 +45,7 @@
 
  <div class="offcanvas offcanvas-end" tabindex="-1" id="gozunucalistir" aria-labelledby="offcanvasRightLabel">
      <div class="offcanvas-header ust_menu">
-         <h5 class="exercise_text" id="offcanvasRightLabel">Paragrafı İnşa Edelim</h5>
+         <h5 class="exercise_text" id="offcanvasRightLabel">Paragraf  Konuşuyor</h5>
          <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
      </div>
      <div class="offcanvas-header ust_menu">
@@ -46,7 +57,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
-                     <a style="text-decoration: none; color:white;"  class="leftUrl" href="#"data-image="prg_image/21.png" data-alt="Uygulama Bilgilendirme Görseli" >
+                     <a style="text-decoration: none; color:white;"  class="leftUrl" href="#"data-image="prg_image/19.png" data-alt="Uygulama Bilgilendirme Görseli" >
                          <span>Anlatım Teknikleri</span>
                          <div class="text-end"> <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
                      </a>
@@ -67,7 +78,6 @@
                          <span>Anlatıcı Türleri Bakış Açıları</span>
                          <div class="text-end"> <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
                      </a>
-                     <script src="js/prg_3.js" defer></script>
                  </div>
 
                  <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
@@ -81,6 +91,14 @@
                  <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
                      <a style="text-decoration: none; color:white;" class="leftUrl" href="#" data-image="prg_image/6.png" data-alt="Uygulama Bilgilendirme Görseli" name="educations/satirboyuncagorme|||educationssecond/satirboyuncagorme">
                          <span>Dil ve Anlatım Özellikleri</span>
+                         <div class="text-end"> <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                     <script src="js/prg_5.js" defer></script>
+                 </div>
+
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="#" data-image="prg_image/18.png" data-alt="Uygulama Bilgilendirme Görseli" name="educations/satirboyuncagorme|||educationssecond/satirboyuncagorme">
+                         <span>Turlama Tekniği</span>
                          <div class="text-end"> <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
                      </a>
                      <script src="js/prg_5.js" defer></script>
@@ -277,7 +295,7 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
-                     <a style="text-decoration: none; color:white;" class="leftUrl" data-image="prg_image/19.png" data-alt="Uygulama Bilgilendirme Görseli" href="#" name="educations/blokokuma|||educationssecond/blokokuma">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" data-image="prg_image/18.png" data-alt="Uygulama Bilgilendirme Görseli" href="#" name="educations/blokokuma|||educationssecond/blokokuma">
                          <span>Turlama Tekniği </span>
                          <div class="text-end"> <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
                      </a>

@@ -48,14 +48,14 @@ $_SESSION['incorrect'] = 0;
 
 <div class="container">
     <h1>YAPI DEDEKTİFLİĞİ </h1>
-    <form method="post" action="test.php">
+    <form method="post" action="structure-sorular.php">
         <button type="submit" name="topic" value="tamamlama">Tamamlama</button>
         <button type="submit" name="topic" value="ikiye_bolme">İkiye Bölme</button>
         <button type="submit" name="topic" value="cumle_ekleme">Cümle Ekleme</button>
         <button type="submit" name="topic" value="dusuncenin_akisi">Düşüncenin Akışını Bozan Cümle</button>
         <button type="submit" name="topic" value="metin_olusturma">Metin Oluşturma </button>
         <button type="submit" name="topic" value="yer_degistirme">Yer Değiştirme </button>
-        <button type="submit" name="topic" value="düsüncenin_yonu">Düşüncenin Yönünün Değişmeye Başladığı Cümle </button>
+        <button type="submit" name="topic" value="dusuncenin_yonu">Düşüncenin Yönünün Değişmeye Başladığı Cümle </button>
         <button type="submit" name="topic" value="metin_karsılastirma">Metin Karşılaştırma </button>
 
     </form>

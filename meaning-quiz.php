@@ -48,7 +48,7 @@ $_SESSION['incorrect'] = 0;
 
 <div class="container">
     <h1>ANLAMIN ŞİFRELERİ </h1>
-    <form method="post" action="test.php">
+    <form method="post" action="meaning-sorular.php">
         <button type="submit" name="topic" value="ana_dusunce">Ana Düşünce</button>
         <button type="submit" name="topic" value="konu_baslik">Konu, Başlık</button>
         <button type="submit" name="topic" value="yardimci_dusunce">Yardımcı Düşünce</button>

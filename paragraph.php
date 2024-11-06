@@ -1,7 +1,7 @@
 <?php include("header.php");
 include("nav.php"); ?>
 
-<link rel="stylesheet" href="css/card.css">
+<link rel="stylesheet" href="css/cardd.css">
 
 <div id="main_menu" class="container ">
 
@@ -13,7 +13,7 @@ include("nav.php"); ?>
     </div>
 
     <div class="row d-flex justify-content-center">
-        <div class="card card0 col-md-4 m-4">
+        <div class="cardd card0 col-md-4 m-4">
             <button style="background: transparent; border: 0;" data-bs-toggle="offcanvas" data-bs-target="#hizimiolc" aria-controls="offcanvasRight">
                 <div class="border">
                     <h2>Çalışma Planım</h2>
@@ -21,15 +21,15 @@ include("nav.php"); ?>
             </button>
         </div>
 
-        <div class="card card1 col-md-4 m-4">
+        <div class="cardd card1 col-md-4 m-4">
             <button style="background: transparent; border: 0;" data-bs-toggle="offcanvas" data-bs-target="#gozunucalistir" aria-controls="offcanvasRight">
                 <div class="border">
-                    <h2>Paragrafı İnşa Edelim</h2>
+                    <h2>Paragraf Konuşuyor</h2>
                 </div>
             </button>
         </div>
 
-        <div class="card card2 col-md-4 m-4">
+        <div class="cardd card2 col-md-4 m-4">
             <button style="background: transparent; border: 0;" data-bs-toggle="offcanvas" data-bs-target="#beyinkaslarinicalistir" aria-controls="offcanvasRight">
                 <div class="border">
                     <h2>Anlamın Şifreleri</h2>
@@ -38,7 +38,7 @@ include("nav.php"); ?>
         </div>
 
 
-        <div class="card card3 col-md-4 m-4">
+        <div class="cardd card3 col-md-4 m-4">
             <button style="background: transparent; border: 0;" data-bs-toggle="offcanvas" data-bs-target="#hizligor" aria-controls="offcanvasRight">
                 <div class="border">
                     <h2>Yapı Dedektifliği</h2>
@@ -46,10 +46,10 @@ include("nav.php"); ?>
             </button>
         </div>
 
-        <div class="card card4 col-md-4 m-4">
+        <div class="cardd card4 col-md-4 m-4">
             <button style="background: transparent; border: 0;" data-bs-toggle="offcanvas" data-bs-target="#hizlioku" aria-controls="offcanvasRight">
                 <div class="border">
-                    <h2>Soru Çözüm İpuçları</h2>
+                    <h2>Eğlenceli Egzersizler</h2>
                 </div>
             </button>
         </div>
