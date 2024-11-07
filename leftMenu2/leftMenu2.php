@@ -295,9 +295,38 @@
          <div class="container">
              <div class="row">
                  <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
-                     <a style="text-decoration: none; color:white;" class="leftUrl" data-image="prg_image/18.png" data-alt="Uygulama Bilgilendirme Görseli" href="#" name="educations/blokokuma|||educationssecond/blokokuma">
-                         <span>Turlama Tekniği </span>
-                         <div class="text-end"> <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="mrv_play1.php" >
+                         <span>Cümle Akışını Bozma</span>
+                         <div class="text-end">
+                         <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                 </div>
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="mrv_play2.php" >
+                         <span>Kelime Avı</span>
+                         <div class="text-end">
+                         <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                 </div>
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="mrv_play3.php" >
+                         <span>Sayı Eşleştirme</span>
+                         <div class="text-end">
+                         <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                 </div>
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="mrv_play4.php" >
+                         <span>Sudoku</span>
+                         <div class="text-end">
+                         <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                 </div>
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="mrv_play5.php" >
+                         <span>Yansıma</span>
+                         <div class="text-end">
+                         <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
                      </a>
                  </div>
              </div>
