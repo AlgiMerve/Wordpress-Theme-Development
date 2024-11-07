@@ -197,32 +197,37 @@ $sorular = [
             background-color: #2e3b42;
             color: #ffffff;
             font-family: Arial, sans-serif;
-            padding: 20px;
+            font-size: 20px;
+            padding: 40px;
         }
         .container {
-            background-color: #c9a3a3;
-            padding: 20px;
-            border-radius: 10px;
+
+            background-color: #2c3e50;
+            padding: 400px;
+            border-radius: 30px;
             text-align: left;
+            height: 100vh;
         }
         h1, h2 {
             text-align: center;
+            
         }
         .question {
-            margin: 20px 0;
+            display: none;
+            margin: 60px 0;
         }
-        input[type="radio"] {
-            margin-right: 10px;
+        .question.active {
+            display: block;
         }
         button {
-            display: block;
-            margin: 20px auto;
-            padding: 10px 20px;
-            background-color: #4CAF50;
+            display: inline-block;
+            padding: 30px 40px;
+            background-color: #476b7a;
             color: #fff;
             border: none;
-            border-radius: 5px;
+            border-radius: 20px;
             cursor: pointer;
+            margin: 20px;
         }
     </style>
 </head>
@@ -231,15 +236,13 @@ $sorular = [
 <div class="container">
     <h1>Seçilen Konu: <?= ucfirst(str_replace('_', ' ', $topic)) ?></h1>
 
-    <form method="post" action="meaning-sonuc.php">
-        <!-- Konu başlığını gizli input olarak gönderiyoruz -->
+    <form method="post" action="meaning-sonuc.php" id="quizForm">
         <input type="hidden" name="topic" value="<?= $topic ?>">
         
         <?php 
-        // Eğer seçilen konuya ait sorular varsa, soruları göster
         if (isset($sorular[$topic])) {
             foreach ($sorular[$topic] as $index => $soru) {
-                echo '<div class="question">';
+                echo '<div class="question" id="question-'.$index.'">';
                 echo '<h2>Soru '.($index + 1).'</h2>';
                 echo '<p>'.$soru['soru'].'</p>';
                 echo '<p>'.$soru['soru_baslik'].'</p>';
@@ -252,9 +255,44 @@ $sorular = [
             echo '<p>Geçersiz konu seçimi!</p>';
         }
         ?>
-        <button type="submit">Tamamla</button>
+
+        <button type="button" id="prevBtn" onclick="prevQuestion()">Geri</button>
+        <button type="button" id="nextBtn" onclick="nextQuestion()">İleri</button>
+        <button type="submit" id="submitBtn" style="display: none;">Tamamla</button>
     </form>
 </div>
+
+<script>
+    let currentQuestionIndex = 0;
+    const questions = document.querySelectorAll('.question');
+
+    // İlk soruyu göster
+    function showQuestion(index) {
+        questions.forEach((question, idx) => {
+            question.classList.toggle('active', idx === index);
+        });
+        document.getElementById('prevBtn').style.display = index === 0 ? 'none' : 'inline-block';
+        document.getElementById('nextBtn').style.display = index === questions.length - 1 ? 'none' : 'inline-block';
+        document.getElementById('submitBtn').style.display = index === questions.length - 1 ? 'inline-block' : 'none';
+    }
+
+    function nextQuestion() {
+        if (currentQuestionIndex < questions.length - 1) {
+            currentQuestionIndex++;
+            showQuestion(currentQuestionIndex);
+        }
+    }
+
+    function prevQuestion() {
+        if (currentQuestionIndex > 0) {
+            currentQuestionIndex--;
+            showQuestion(currentQuestionIndex);
+        }
+    }
+
+    // İlk soruyu başlat
+    showQuestion(currentQuestionIndex);
+</script>
 
 </body>
 </html>

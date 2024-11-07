@@ -68,7 +68,7 @@ $_SESSION['incorrect'] = 0;
         <button type="submit" name="topic" value="yer_degistirme">Yer Değiştirme </button>
         <button type="submit" name="topic" value="dusuncenin_yonu">Düşüncenin Yönünün Değişmeye Başladığı Cümle </button>
         <button type="submit" name="topic" value="metin_karsılastirma">Metin Karşılaştırma </button>
-        <button type="submit" name="topic" value="performans_olc">Performansı Ölç</button>
+
 
     </form>
 </div>

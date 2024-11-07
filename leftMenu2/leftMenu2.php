@@ -35,6 +35,14 @@
                  </div>
              </div>
 
+             <div class="row">
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="#"data-image="prg_image/3.jpg" data-alt="Uygulama Bilgilendirme Görseli" >
+                         <span> Programım</span>
+                         <div class="text-end"> <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                 </div>
+             </div>
          </div>
 
      </div>
@@ -325,6 +333,14 @@
                  <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
                      <a style="text-decoration: none; color:white;" class="leftUrl" href="mrv_play5.php" >
                          <span>Yansıma</span>
+                         <div class="text-end">
+                         <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                 </div>
+
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="mrv.php" >
+                         <span>YKS</span>
                          <div class="text-end">
                          <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
                      </a>

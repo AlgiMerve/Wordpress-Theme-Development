@@ -123,7 +123,7 @@ if (isset($dogruCevaplar[$topic])) {
 <div class="container">
     <h1>Sonuçlar</h1>
     <p>Testi tamamladınız. Doğru sayınız: <?= $dogruSayisi ?>, Yanlış sayınız: <?= $yanlisSayisi ?>.</p>
-    <a href="meaning-quiz.php"><button>Tekrar Başla</button></a> <!-- Yeniden teste başlama butonu -->
+    <a href="paragraph-quiz.php"><button>Tekrar Başla</button></a> <!-- Yeniden teste başlama butonu -->
 </div>
 
 </body>
