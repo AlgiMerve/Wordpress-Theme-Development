@@ -14,8 +14,8 @@ $_SESSION['incorrect'] = 0;
     <title>Okuma ve Anlama Testi</title>
     <style>
         body {
-            background-color: #2e3b42;
-            color: #ffffff;
+            background-color: #476b7a; /* Mavi arka plan  #1e90ff*/
+            color: #ffffff; /* Beyaz yazı rengi */
             font-family: Arial, sans-serif;
             height: 100vh; /* Yüksekliği tam ekran yapar */
             display: flex;
@@ -24,23 +24,34 @@ $_SESSION['incorrect'] = 0;
             margin: 0;
         }
         .container {
-            background-color: #c9a3a3;
+            background-color: #2c3e50;
             padding: 20px;
             border-radius: 10px;
             text-align: center; /* İçeriği ortalar */
+            max-width: 400px;
+            width: 100%;
         }
         h1 {
             text-align: center;
+            font-size: 24px;
+            margin-bottom: 20px;
         }
         button {
             display: block;
-            margin: 20px auto;
-            padding: 10px 20px;
-            background-color: #4CAF50;
-            color: #fff;
+            width: 100%; /* Buton genişliği tam genişlik */
+            padding: 20px; /* Butonların boyutunu büyüt */
+            margin: 10px 0;
+            background-color: #ffffff;
+            color: #1e90ff;
             border: none;
             border-radius: 5px;
+            font-size: 18px;
+            font-weight: bold;
             cursor: pointer;
+            transition: background-color 0.3s;
+        }
+        button:hover {
+            background-color: #ddd;
         }
     </style>
 </head>
@@ -57,6 +68,7 @@ $_SESSION['incorrect'] = 0;
         <button type="submit" name="topic" value="yer_degistirme">Yer Değiştirme </button>
         <button type="submit" name="topic" value="dusuncenin_yonu">Düşüncenin Yönünün Değişmeye Başladığı Cümle </button>
         <button type="submit" name="topic" value="metin_karsılastirma">Metin Karşılaştırma </button>
+        <button type="submit" name="topic" value="performans_olc">Performansı Ölç</button>
 
     </form>
 </div>
