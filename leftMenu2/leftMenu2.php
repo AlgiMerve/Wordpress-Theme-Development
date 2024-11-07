@@ -291,11 +291,11 @@
 
  <div class="offcanvas offcanvas-end" tabindex="-1" id="hizlioku" aria-labelledby="offcanvasRightLabel">
      <div class="offcanvas-header ust_menu">
-         <h5 class="exercise_text" id="offcanvasRightLabel">Soru Çözüm İpuçları</h5>
+         <h5 class="exercise_text" id="offcanvasRightLabel">Eğlenceli Egzersizler: Hem Oyna Hem Öğren!</h5>
          <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
      </div>
      <div class="offcanvas-header ust_menu">
-         <h6 style="color: white;"> Turlama taktiği daha az yorulmanız ve daha hızlı soru çözmeniz üzerine tasarlanmış bir yöntemdir.</h6>
+         <h6 style="color: white;"> YKS ve LGS hazırlığını eğlenceli hale getiren Eğlenceli Egzersizler ile oyun oynarken sınav pratiği yapın! Sorularla hem öğrenin hem de bilgilerinizi pekiştirin.</h6>
      </div>
 
      <div class="offcanvas-body main">
@@ -341,6 +341,13 @@
                  <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
                      <a style="text-decoration: none; color:white;" class="leftUrl" href="mrv.php" >
                          <span>YKS</span>
+                         <div class="text-end">
+                         <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
+                     </a>
+                 </div>
+                 <div class="col-md-5 training_rectangle mx-2 exercise_text_sc my-2">
+                     <a style="text-decoration: none; color:white;" class="leftUrl" href="1.php" >
+                         <span>LGS</span>
                          <div class="text-end">
                          <i style="font-size: 35px;color: #4DA1FE;margin-top: -6px;" class="fas fa-angle-double-right centered_freetraining"></i> </div>
                      </a>
