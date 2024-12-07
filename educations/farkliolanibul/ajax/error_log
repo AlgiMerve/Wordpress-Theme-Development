@@ -1,7 +1,0 @@
-[29-Apr-2023 16:37:07 Europe/Istanbul] PHP Warning:  Undefined array key "tc" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/farkliolanibul/ajax/ajax_farkli_olan_sonuc.php on line 5
-[29-Apr-2023 16:37:07 Europe/Istanbul] PHP Warning:  Undefined array key "ad_soyad" in /home/neurosou/test.neurosound.com.tr/speedreading/educations/farkliolanibul/ajax/ajax_farkli_olan_sonuc.php on line 6
-[29-Apr-2023 16:37:07 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[23000]: Integrity constraint violation: 1048 Column 'ogr_tc' cannot be null in /home/neurosou/test.neurosound.com.tr/speedreading/educations/farkliolanibul/ajax/ajax_farkli_olan_sonuc.php:20
-Stack trace:
-#0 /home/neurosou/test.neurosound.com.tr/speedreading/educations/farkliolanibul/ajax/ajax_farkli_olan_sonuc.php(20): PDOStatement->execute()
-#1 {main}
-  thrown in /home/neurosou/test.neurosound.com.tr/speedreading/educations/farkliolanibul/ajax/ajax_farkli_olan_sonuc.php on line 20
